@@ -19,10 +19,11 @@
         app:layout_constraintVertical_bias="0.001">
 
         <ImageView
-            android:id="@+id/imageView"
+            android:id="@+id/logo_foto"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            app:srcCompat="@drawable/cyberpunk_edgerunners_logo" />
+            app:srcCompat="@drawable/cyberpunk_edgerunners_logo"
+            android:contentDescription="TODO" />
     </LinearLayout>
 
     <Button
@@ -33,6 +34,7 @@
         android:textAllCaps="true"
         android:textColor="@color/black"
         android:textStyle="bold"
+        android:onClick="launchLoginActivity"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.463"
@@ -47,11 +49,12 @@
         android:text="Registrarse"
         android:textColor="@color/black"
         android:textStyle="bold"
+        android:onClick="launchRegistroActivity"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintHorizontal_bias="0.46"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/inicio"
-        app:layout_constraintVertical_bias="0.294" />
+        app:layout_constraintVertical_bias="0.288" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

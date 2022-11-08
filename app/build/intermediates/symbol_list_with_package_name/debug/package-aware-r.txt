@@ -2552,6 +2552,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable cyberpunk_edgerunners_logo
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
@@ -2646,6 +2647,7 @@ id CTRL
 id FUNCTION
 id META
 id NO_DEBUG
+id Registro
 id SHIFT
 id SHOW_ALL
 id SHOW_PATH
@@ -2861,6 +2863,7 @@ id immediateStop
 id included
 id indeterminate
 id info
+id inicio
 id invisible
 id inward
 id italic
@@ -2877,6 +2880,8 @@ id line3
 id linear
 id listMode
 id list_item
+id logo
+id logo_foto
 id marquee
 id masked
 id match_constraint
@@ -3237,6 +3242,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_login
 layout activity_main
 layout custom_dialog
 layout design_bottom_navigation_item

@@ -7,8 +7,14 @@ color purple_700
 color teal_200
 color teal_700
 color white
+drawable cyberpunk_edgerunners_logo
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+id Registro
+id inicio
+id logo
+id logo_foto
+layout activity_login
 layout activity_main
 mipmap ic_launcher
 mipmap ic_launcher_round
