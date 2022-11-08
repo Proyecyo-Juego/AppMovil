@@ -3,4 +3,6 @@
     <string name="email_text">Introduzca tu email</string>
     <string name="usuario_text">Nombre de usuario</string>
     <string name="password_text">Introduzca su contraseña</string>
+    <string name="usuarioregistrado">Usuario</string>
+    <string name="passwordregistrado">Contraseña</string>
 </resources>
