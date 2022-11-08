@@ -2813,6 +2813,7 @@ id easeOut
 id east
 id edit_query
 id elastic
+id email_text
 id embed
 id end
 id endToStart
@@ -2836,6 +2837,7 @@ id flip
 id floating
 id forever
 id fragment_container_view_tag
+id frameLayout
 id frost
 id fullscreen_header
 id ghost_view
@@ -2859,6 +2861,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView
 id immediateStop
 id included
 id indeterminate
@@ -2878,6 +2881,7 @@ id legacy
 id line1
 id line3
 id linear
+id linearLayout
 id listMode
 id list_item
 id logo
@@ -2969,6 +2973,7 @@ id parent
 id parentPanel
 id parentRelative
 id parent_matrix
+id password_text
 id password_toggle
 id path
 id pathRelative
@@ -2983,6 +2988,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id registrarse_bt
 id reverseSawtooth
 id right
 id rightToLeft
@@ -3102,6 +3108,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id usuario_text
 id vertical_only
 id view_offset_helper
 id view_transition
@@ -3244,6 +3251,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_login
 layout activity_main
+layout activity_registro
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3361,6 +3369,7 @@ string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern
 string clear_text_end_icon_content_description
+string email_text
 string error_a11y_label
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
@@ -3456,6 +3465,7 @@ string mtrl_switch_track_decoration_path
 string mtrl_switch_track_path
 string mtrl_timepicker_cancel
 string mtrl_timepicker_confirm
+string password_text
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
@@ -3463,6 +3473,7 @@ string path_password_eye_mask_visible
 string path_password_strike_through
 string search_menu_title
 string status_bar_notification_info_overflow
+string usuario_text
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

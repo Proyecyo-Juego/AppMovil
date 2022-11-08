@@ -21,6 +21,15 @@
         android:testOnly="true"
         android:theme="@style/Theme.MyApplication" >
         <activity
+            android:name="com.example.myapplication.RegistroActivity"
+            android:exported="false"
+            android:label="RegistroActivity"
+            android:parentActivityName="com.example.myapplication.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.myapplication.MainActivity" />
+        </activity>
+        <activity
             android:name="com.example.myapplication.LoginActivity"
             android:exported="false"
             android:label="LoginActivity"
