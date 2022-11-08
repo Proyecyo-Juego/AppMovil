@@ -6,95 +6,112 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml
+8-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml
+9-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:5:5-39:19
+11-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:5:5-46:19
 12        android:allowBackup="true"
-12-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:6:9-35
+12-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.8.0] C:\Users\Elena\.gradle\caches\transforms-3\87a796fe63836d99a2198ac6a6284cb3\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.8.0] C:\Users\Vic\.gradle\caches\transforms-3\87a796fe63836d99a2198ac6a6284cb3\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 14        android:dataExtractionRules="@xml/data_extraction_rules"
-14-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:7:9-65
+14-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:7:9-65
 15        android:debuggable="true"
 16        android:fullBackupContent="@xml/backup_rules"
-16-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:8:9-54
+16-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:8:9-54
 17        android:icon="@mipmap/ic_launcher"
-17-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:9:9-43
+17-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:9:9-43
 18        android:label="@string/app_name"
-18-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:10:9-41
+18-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:10:9-41
 19        android:roundIcon="@mipmap/ic_launcher_round"
-19-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:11:9-54
+19-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:11:9-54
 20        android:supportsRtl="true"
-20-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:12:9-35
+20-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:12:9-35
 21        android:testOnly="true"
 22        android:theme="@style/Theme.MyApplication" >
-22-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:13:9-51
+22-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:13:9-51
 23        <activity
-23-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:15:9-24:20
-24            android:name="com.example.myapplication.LoginActivity"
-24-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:16:13-42
+23-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:15:9-23:20
+24            android:name="com.example.myapplication.RegistroActivity"
+24-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:16:13-45
 25            android:exported="false"
-25-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:19:13-37
-26            android:label="LoginActivity"
-26-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:17:13-44
+25-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:17:13-37
+26            android:label="RegistroActivity"
+26-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:18:13-45
 27            android:parentActivityName="com.example.myapplication.MainActivity" >
-27-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:18:13-55
+27-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:19:13-55
 28            <meta-data
-28-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:20:13-23:68
+28-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:20:13-22:73
 29                android:name="android.support.PARENT_ACTIVITY"
-29-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:21:21-67
+29-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:21:17-63
 30                android:value="com.example.myapplication.MainActivity" />
-30-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:22:21-101
+30-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:22:17-71
 31        </activity>
 32        <activity
-32-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:26:9-38:20
-33            android:name="com.example.myapplication.MainActivity"
-33-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:27:13-41
-34            android:exported="true" >
-34-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:28:13-36
-35            <intent-filter>
-35-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:29:13-33:29
-36                <action android:name="android.intent.action.MAIN" />
-36-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:30:17-69
-36-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:30:25-66
-37
-38                <category android:name="android.intent.category.LAUNCHER" />
-38-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:32:17-77
-38-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:32:27-74
-39            </intent-filter>
-40
-41            <meta-data
-41-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:35:13-37:36
-42                android:name="android.app.lib_name"
-42-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:36:17-52
-43                android:value="" />
-43-->C:\Users\Elena\Desktop\AppMovil\app\src\main\AndroidManifest.xml:37:17-33
-44        </activity>
-45
-46        <provider
-46-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Elena\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-47            android:name="androidx.startup.InitializationProvider"
-47-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Elena\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-48            android:authorities="com.example.myapplication.androidx-startup"
-48-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Elena\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-49            android:exported="false" >
-49-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Elena\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+32-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:24:9-32:20
+33            android:name="com.example.myapplication.LoginActivity"
+33-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:25:13-42
+34            android:exported="false"
+34-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:26:13-37
+35            android:label="LoginActivity"
+35-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:27:13-42
+36            android:parentActivityName="com.example.myapplication.MainActivity" >
+36-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:28:13-55
+37            <meta-data
+37-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:20:13-22:73
+38                android:name="android.support.PARENT_ACTIVITY"
+38-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:21:17-63
+39                android:value="com.example.myapplication.MainActivity" />
+39-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:22:17-71
+40        </activity>
+41        <activity
+41-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:33:9-45:20
+42            android:name="com.example.myapplication.MainActivity"
+42-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:34:13-41
+43            android:exported="true" >
+43-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:35:13-36
+44            <intent-filter>
+44-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:36:13-40:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:37:17-69
+45-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:37:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:39:17-77
+47-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:39:27-74
+48            </intent-filter>
+49
 50            <meta-data
-50-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Elena\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-51                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Elena\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-52                android:value="androidx.startup" />
-52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Elena\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-53            <meta-data
-53-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Elena\.gradle\caches\transforms-3\0ce9e5f033589fdf0ab757f82f7808ec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-54                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-54-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Elena\.gradle\caches\transforms-3\0ce9e5f033589fdf0ab757f82f7808ec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-55                android:value="androidx.startup" />
-55-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Elena\.gradle\caches\transforms-3\0ce9e5f033589fdf0ab757f82f7808ec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-56        </provider>
-57    </application>
-58
-59</manifest>
+50-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:42:13-44:36
+51                android:name="android.app.lib_name"
+51-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:43:17-52
+52                android:value="" />
+52-->C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:44:17-33
+53        </activity>
+54
+55        <provider
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Vic\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+56            android:name="androidx.startup.InitializationProvider"
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Vic\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+57            android:authorities="com.example.myapplication.androidx-startup"
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Vic\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+58            android:exported="false" >
+58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Vic\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+59            <meta-data
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Vic\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+60                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Vic\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+61                android:value="androidx.startup" />
+61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Vic\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+62            <meta-data
+62-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Vic\.gradle\caches\transforms-3\0ce9e5f033589fdf0ab757f82f7808ec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+63                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+63-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Vic\.gradle\caches\transforms-3\0ce9e5f033589fdf0ab757f82f7808ec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+64                android:value="androidx.startup" />
+64-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Vic\.gradle\caches\transforms-3\0ce9e5f033589fdf0ab757f82f7808ec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+65        </provider>
+66    </application>
+67
+68</manifest>
