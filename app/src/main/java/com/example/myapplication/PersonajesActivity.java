@@ -6,16 +6,17 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-public class RegistroActivity extends AppCompatActivity {
+public class PersonajesActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_registro);
+        setContentView(R.layout.activity_personajes);
     }
 
-    public void Login(View view) {
-        Intent intent = new Intent(this, LoginActivity.class);
+    public void Volver(View view) {
+        Intent intent = new Intent(this, MenuActivity.class);
         startActivity(intent);
     }
+
 }

@@ -59,9 +59,10 @@
     <Button
         android:id="@+id/enter_bt"
         android:layout_width="131dp"
-        android:layout_height="47dp"
+        android:layout_height="48dp"
         android:layout_marginTop="8dp"
         android:text="ENTER"
+        android:onClick="launchMenuActivity"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

@@ -80,6 +80,7 @@
             android:insetTop="10sp"
             android:insetBottom="4sp"
             android:text="REGISTRARSE"
+            android:onClick="Login"
             android:textSize="10sp"
             android:layout_margin="10dp"
             app:iconPadding="4sp" />
