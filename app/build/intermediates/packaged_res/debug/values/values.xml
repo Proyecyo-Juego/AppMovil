@@ -9,8 +9,17 @@
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">My Application</string>
     <string name="email_text">Introduzca tu email</string>
+    <string name="exit">Exit</string>
+    <string name="lanzar_juego">Jugar</string>
+    <string name="main_escenarios">Escenarios</string>
+    <string name="main_informacion">Información</string>
+    <string name="main_menu">Menu</string>
+    <string name="main_personajes">Personajes</string>
     <string name="password_text">Introduzca su contraseña</string>
+    <string name="passwordregistrado">Contraseña</string>
+    <string name="texto">Aqui esta el texto de informacion sobre el juego, como la version, algunas reglas, etc</string>
     <string name="usuario_text">Nombre de usuario</string>
+    <string name="usuarioregistrado">Usuario</string>
     <style name="Theme.MyApplication" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>
