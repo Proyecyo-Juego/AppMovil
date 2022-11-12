@@ -8,7 +8,6 @@ import android.util.Log;
 import android.view.View;
 
 
-
 public class MainActivity extends AppCompatActivity {
 
     private static final String LOG_TAG = MainActivity.class.getSimpleName();
@@ -19,12 +18,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-
     public void launchLoginActivity(View view) {
         Log.d(LOG_TAG, "Button clicked!");
-            Intent intent = new Intent(this, LoginActivity.class);
-            startActivity(intent);
-
+        Intent intent = new Intent(this, LoginActivity.class);
+        startActivity(intent);
     }
 
     public void launchRegistroActivity(View view) {
@@ -32,4 +29,5 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, RegistroActivity.class);
         startActivity(intent);
     }
+
 }
