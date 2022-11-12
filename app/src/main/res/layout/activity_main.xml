@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/menu_de_inicio"
     tools:context=".MainActivity">
 
     <LinearLayout
@@ -22,19 +23,19 @@
             android:id="@+id/logo_foto"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            app:srcCompat="@drawable/cyberpunk_edgerunners_logo"
-            android:contentDescription="TODO" />
+            android:contentDescription="TODO"
+            app:srcCompat="@drawable/cyberpunk_edgerunners_logo" />
     </LinearLayout>
 
     <Button
         android:id="@+id/inicio"
         android:layout_width="220dp"
         android:layout_height="69dp"
+        android:onClick="launchLoginActivity"
         android:text="Iniciar Sesion"
         android:textAllCaps="true"
         android:textColor="@color/black"
         android:textStyle="bold"
-        android:onClick="launchLoginActivity"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.463"
@@ -46,10 +47,10 @@
         android:id="@+id/Registro"
         android:layout_width="220dp"
         android:layout_height="69dp"
+        android:onClick="launchRegistroActivity"
         android:text="Registrarse"
         android:textColor="@color/black"
         android:textStyle="bold"
-        android:onClick="launchRegistroActivity"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.46"
