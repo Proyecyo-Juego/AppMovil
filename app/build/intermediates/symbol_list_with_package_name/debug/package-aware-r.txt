@@ -2558,6 +2558,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable edgerunners_netflix_1_1
 drawable fondomenu
 drawable fondopersonajes
 drawable ic_clock_black_24dp
@@ -2571,6 +2572,7 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable iniciar_sesi_n
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay
 drawable m3_radiobutton_ripple
@@ -2589,6 +2591,7 @@ drawable material_ic_keyboard_arrow_previous_black_24dp
 drawable material_ic_keyboard_arrow_right_black_24dp
 drawable material_ic_menu_arrow_down_black_24dp
 drawable material_ic_menu_arrow_up_black_24dp
+drawable menu_de_inicio
 drawable mtrl_bottomsheet_drag_handle
 drawable mtrl_checkbox_button
 drawable mtrl_checkbox_button_checked_unchecked
@@ -2738,7 +2741,7 @@ id beginOnFirstDraw
 id beginning
 id bestChoice
 id blocking
-id boton_acercade
+id boton_informacion
 id boton_jugar
 id boton_personajes
 id bottom
@@ -3421,7 +3424,6 @@ string m3_sys_motion_easing_linear
 string m3_sys_motion_easing_standard
 string m3_sys_motion_easing_standard_accelerate
 string m3_sys_motion_easing_standard_decelerate
-string main_escenarios
 string main_informacion
 string main_menu
 string main_personajes

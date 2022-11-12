@@ -8,14 +8,17 @@ color teal_200
 color teal_700
 color white
 drawable cyberpunk_edgerunners_logo
+drawable edgerunners_netflix_1_1
 drawable fondomenu
 drawable fondopersonajes
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable iniciar_sesi_n
+drawable menu_de_inicio
 drawable personaje
 id Registro
 id back
-id boton_acercade
+id boton_informacion
 id boton_jugar
 id boton_personajes
 id button
@@ -60,7 +63,6 @@ string app_name
 string email_text
 string exit
 string lanzar_juego
-string main_escenarios
 string main_informacion
 string main_menu
 string main_personajes
