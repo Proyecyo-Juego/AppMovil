@@ -6,7 +6,6 @@
     <string name="usuarioregistrado">Usuario</string>
     <string name="passwordregistrado">Contraseña</string>
     <string name="main_informacion">Información</string>
-    <string name="main_escenarios">Escenarios</string>
     <string name="main_personajes">Personajes</string>
     <string name="lanzar_juego">Jugar</string>
     <string name="exit">Exit</string>
