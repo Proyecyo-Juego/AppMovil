@@ -11,4 +11,5 @@
     <string name="exit">Exit</string>
     <string name="texto">Aqui esta el texto de informacion sobre el juego, como la version, algunas reglas, etc</string>
     <string name="main_menu">Menu</string>
+    <string name="title_activity_maps">MapsActivity</string>
 </resources>
