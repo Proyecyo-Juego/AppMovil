@@ -79,12 +79,16 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
+            android:backgroundTint="#FFEB3B"
             android:insetTop="10sp"
             android:insetBottom="4sp"
             android:onClick="Login"
             android:text="REGISTRARSE"
-            android:textSize="10sp"
-            app:iconPadding="4sp" />
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:iconPadding="4sp"
+            app:iconTint="@color/black" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
