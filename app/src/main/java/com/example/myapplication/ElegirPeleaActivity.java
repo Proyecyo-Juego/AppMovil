@@ -5,11 +5,12 @@ import android.os.Bundle;
 import android.view.View;
 import androidx.appcompat.app.AppCompatActivity;
 
-import java.util.List;
+import java.util.ArrayList;
+
 
 public class ElegirPeleaActivity extends AppCompatActivity {
 
-    List<Pelea> peleas;
+    ArrayList<Pelea> peleas = new ArrayList<Pelea>();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

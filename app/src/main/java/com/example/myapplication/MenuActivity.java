@@ -16,6 +16,8 @@ public class MenuActivity extends AppCompatActivity {
 
     public  void launchPlayGameActivity(View view){
         // jugar al juego
+        Intent intent = new Intent(this, ElegirPeleaActivity.class);
+        startActivity(intent);
     }
 
     public void launchPersonajesActivity(View view) {

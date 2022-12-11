@@ -52,6 +52,41 @@
                 android:value="com.example.myapplication.MainActivity" />
         </activity>
         <activity
+            android:name=".MenuActivity"
+            android:exported="false"
+            android:label="MenuActivity"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.myapplication.MainActivity" />
+        </activity>
+        <activity
+            android:name=".ElegirPeleaActivity"
+            android:exported="false"
+            android:label="ElegirPeleaActivity"
+            android:parentActivityName=".MenuActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.myapplication.MenuActivity" />
+        </activity>
+        <activity android:name=".InformacionActivity"
+            android:exported="false"
+            android:label="InformacionActivity"
+            android:parentActivityName=".MenuActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.myapplication.MenuActivity" />
+        </activity>
+        <activity android:name=".PersonajesActivity"
+            android:exported="false"
+            android:label="PersonajesActivity"
+            android:parentActivityName=".MenuActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.myapplication.MenuActivity" />
+        </activity>
+
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

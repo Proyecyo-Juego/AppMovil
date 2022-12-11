@@ -30,9 +30,10 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public void launchMenuActivity(View view){ //Metodo para compronar que funcionan las demás activities luego quitar
+    public void launchMenuActivity(View view){ //Metodo para comprobar que funcionan las demás activities luego quitar
         Log.d(LOG_TAG, "Button clicked!");
         Intent intent = new Intent(this, MenuActivity.class);
+
         startActivity(intent);
     }
 
