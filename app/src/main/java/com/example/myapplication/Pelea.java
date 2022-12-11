@@ -25,6 +25,9 @@ public class Pelea {
     public int getNivel() {
         return nivel;
     }
+    public String getNivelString() {
+        return "nivel: " + nivel;
+    }
 
     public void setNombre(String nombre) {
         this.nombre = nombre;

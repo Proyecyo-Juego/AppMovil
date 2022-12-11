@@ -26,7 +26,7 @@ public class ElejirPeleaAdapter extends ArrayAdapter<Pelea> {
         TextView nivel = view.findViewById(R.id.nivelPelea);
         nombre.setText(pelea.getNombre());
         //descripcion.setText(pelea.getDescripcion());
-        nivel.setText(pelea.getNivel());
+        nivel.setText(pelea.getNivelString());
         return view;
     }
 
