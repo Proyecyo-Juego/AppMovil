@@ -79,7 +79,7 @@
             android:layout_marginBottom="10dp"
             android:layout_weight="1"
             android:backgroundTint="#03A9F4"
-            android:onClick="PersonajesActivity"
+            android:onClick="launchPersonajesActivity"
             android:text="@string/main_personajes" />
 
         <Button
@@ -90,7 +90,7 @@
             android:layout_marginBottom="10dp"
             android:layout_weight="1"
             android:backgroundTint="#a2b516"
-            android:onClick="ElejirPeleaActivity"
+            android:onClick="launchPlayGameActivity"
             android:text="@string/lanzar_juego" />
 
     </LinearLayout>
