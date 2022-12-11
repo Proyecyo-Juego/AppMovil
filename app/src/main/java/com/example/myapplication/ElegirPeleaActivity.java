@@ -1,6 +1,8 @@
 package com.example.myapplication;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 import androidx.appcompat.app.AppCompatActivity;
 
 import java.util.List;
@@ -21,6 +23,10 @@ public class ElegirPeleaActivity extends AppCompatActivity {
         for (int i = 0; i < 10; i++) {
             peleas.add(new Pelea("Pelea " + i, "Descripcion " + i, i));
         }
+    }
+    public void Volver(View view) {
+        Intent intent = new Intent(this, MenuActivity.class);
+        startActivity(intent);
     }
 
 }

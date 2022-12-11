@@ -11,6 +11,7 @@
             android:layout_width="74dp"
             android:layout_height="61dp"
             android:src="@drawable/back"
+            android:onClick="Volver"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             android:layout_marginTop="20dp"
