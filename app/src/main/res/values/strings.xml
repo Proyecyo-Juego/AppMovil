@@ -12,4 +12,5 @@
     <string name="texto">Aqui esta el texto de informacion sobre el juego, como la version, algunas reglas, etc</string>
     <string name="main_menu">Menu</string>
     <string name="title_activity_maps">MapsActivity</string>
+    <string name="lanzar_ranking">Ranking</string>
 </resources>

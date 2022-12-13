@@ -69,6 +69,15 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.myapplication.MenuActivity" />
         </activity>
+        <activity
+                android:name=".RankingActivity"
+                android:exported="false"
+                android:label="RankingActivity"
+                android:parentActivityName=".MenuActivity">
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="com.example.myapplication.MenuActivity" />
+        </activity>
         <activity android:name=".InformacionActivity"
             android:exported="false"
             android:label="InformacionActivity"

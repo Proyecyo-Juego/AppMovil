@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
+import android.widget.ImageView;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 
@@ -22,11 +23,13 @@ public class ElejirPeleaAdapter extends ArrayAdapter<Pelea> {
         }
         Pelea pelea = getItem(position);
         TextView nombre = view.findViewById(R.id.nombrePelea);
-        //TextView descripcion = view.findViewById(R.id.descripcion_pelea);
+
         TextView nivel = view.findViewById(R.id.nivelPelea);
+        //ImageView imageView = view.findViewById(R.id.imagenPelea);
         nombre.setText(pelea.getNombre());
-        //descripcion.setText(pelea.getDescripcion());
+
         nivel.setText(pelea.getNivelString());
+
         return view;
     }
 
