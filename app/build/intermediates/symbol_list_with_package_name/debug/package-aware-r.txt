@@ -2720,6 +2720,8 @@ id ImageView
 id META
 id MenuPrueba
 id NO_DEBUG
+id RankingNumber
+id Ranking_listView
 id Registro
 id SHIFT
 id SHOW_ALL
@@ -2814,6 +2816,7 @@ id blocking
 id boton_informacion
 id boton_jugar
 id boton_personajes
+id boton_ranking
 id bottom
 id bounce
 id bounceBoth
@@ -3061,6 +3064,7 @@ id neverCompleteToStart
 id nivelPelea
 id noScroll
 id noState
+id nombreJugador
 id nombrePelea
 id none
 id normal
@@ -3094,6 +3098,7 @@ id postLayout
 id pressed
 id progress_circular
 id progress_horizontal
+id puntosJugador
 id radio
 id ratio
 id rectangles
@@ -3380,6 +3385,7 @@ layout activity_maps
 layout activity_menu
 layout activity_personaje_habilidades
 layout activity_personajes
+layout activity_ranking
 layout activity_registro
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -3397,6 +3403,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout item_ranking
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
@@ -3533,6 +3540,7 @@ string in_progress
 string indeterminate
 string item_view_role_description
 string lanzar_juego
+string lanzar_ranking
 string m3_sys_motion_easing_emphasized
 string m3_sys_motion_easing_emphasized_accelerate
 string m3_sys_motion_easing_emphasized_decelerate

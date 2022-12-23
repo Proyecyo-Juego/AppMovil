@@ -20,11 +20,14 @@ drawable menu_de_inicio
 drawable personaje
 id ImageView
 id MenuPrueba
+id RankingNumber
+id Ranking_listView
 id Registro
 id back
 id boton_informacion
 id boton_jugar
 id boton_personajes
+id boton_ranking
 id button
 id button2
 id button3
@@ -51,10 +54,12 @@ id logo
 id logo_foto
 id map
 id nivelPelea
+id nombreJugador
 id nombrePelea
 id password_text
 id passwordregistrada_text
 id peleaListView
+id puntosJugador
 id registrarse_bt
 id textView
 id textView20
@@ -74,7 +79,9 @@ layout activity_maps
 layout activity_menu
 layout activity_personaje_habilidades
 layout activity_personajes
+layout activity_ranking
 layout activity_registro
+layout item_ranking
 layout opcion_pelea
 mipmap ic_launcher
 mipmap ic_launcher_round
@@ -82,6 +89,7 @@ string app_name
 string email_text
 string exit
 string lanzar_juego
+string lanzar_ranking
 string main_informacion
 string main_menu
 string main_personajes

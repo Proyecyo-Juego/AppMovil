@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:2:1-104:12
-INJECTED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:2:1-104:12
-INJECTED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:2:1-104:12
-INJECTED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:2:1-104:12
+ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:2:1-113:12
+INJECTED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:2:1-113:12
+INJECTED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:2:1-113:12
+INJECTED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:2:1-113:12
 MERGED from [androidx.databinding:viewbinding:7.3.1] C:\Gradle\gradle-7.5.1\caches\transforms-3\ea113a168d7d3c10f361c0d9c972e51b\transformed\viewbinding-7.3.1\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.7.0] C:\Gradle\gradle-7.5.1\caches\transforms-3\eb47a08730fe6560883e4be3a561e4ab\transformed\material-1.7.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Gradle\gradle-7.5.1\caches\transforms-3\86273e999a44ef5694f3c78a27232305\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
@@ -67,27 +67,27 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Grad
 MERGED from [androidx.print:print:1.0.0] C:\Gradle\gradle-7.5.1\caches\transforms-3\c1df7ecddc77ae6bd6f94948445f0ebf\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.compose.ui:ui-util:1.0.0] C:\Gradle\gradle-7.5.1\caches\transforms-3\2f12c8093534b07813cd08ac658834d5\transformed\ui-util-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Gradle\gradle-7.5.1\caches\transforms-3\5cb95117d0bd7e5568f6b6280070aaad\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:2:1-104:12
-INJECTED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:2:1-104:12
-INJECTED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:2:1-104:12
+INJECTED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:2:1-113:12
+INJECTED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:2:1-113:12
+INJECTED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:2:1-113:12
 	package
 		INJECTED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:2:1-104:12
+		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:2:1-113:12
 		INJECTED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:2:1-104:12
+		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:2:1-113:12
 		INJECTED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:2:1-104:12
+		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:2:1-113:12
 		INJECTED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:5:5-102:19
+ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:5:5-111:19
 MERGED from [com.google.android.material:material:1.7.0] C:\Gradle\gradle-7.5.1\caches\transforms-3\eb47a08730fe6560883e4be3a561e4ab\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.7.0] C:\Gradle\gradle-7.5.1\caches\transforms-3\eb47a08730fe6560883e4be3a561e4ab\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Gradle\gradle-7.5.1\caches\transforms-3\86273e999a44ef5694f3c78a27232305\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -192,48 +192,58 @@ ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManife
 		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:65:13-37
 	android:name
 		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:64:13-48
+activity#com.example.myapplication.RankingActivity
+ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:72:9-80:20
+	android:parentActivityName
+		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:76:17-59
+	android:label
+		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:75:17-48
+	android:exported
+		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:74:17-41
+	android:name
+		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:73:17-48
 activity#com.example.myapplication.InformacionActivity
-ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:72:9-79:20
+ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:81:9-88:20
 	android:parentActivityName
-		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:75:13-55
+		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:84:13-55
 	android:label
-		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:74:13-48
+		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:83:13-48
 	android:exported
-		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:73:13-37
+		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:82:13-37
 	android:name
-		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:72:19-54
+		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:81:19-54
 activity#com.example.myapplication.PersonajesActivity
-ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:80:9-87:20
+ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:89:9-96:20
 	android:parentActivityName
-		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:83:13-55
+		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:92:13-55
 	android:label
-		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:82:13-47
+		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:91:13-47
 	android:exported
-		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:81:13-37
+		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:90:13-37
 	android:name
-		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:80:19-53
+		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:89:19-53
 activity#com.example.myapplication.MainActivity
-ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:89:9-101:20
+ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:98:9-110:20
 	android:exported
-		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:91:13-36
+		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:100:13-36
 	android:name
-		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:90:13-41
+		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:99:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:92:13-96:29
+ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:101:13-105:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:93:17-69
+ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:102:17-69
 	android:name
-		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:93:25-66
+		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:102:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:95:17-77
+ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:104:17-77
 	android:name
-		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:95:27-74
+		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:104:27-74
 meta-data#android.app.lib_name
-ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:98:13-100:36
+ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:107:13-109:36
 	android:value
-		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:100:17-33
+		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:109:17-33
 	android:name
-		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:99:17-52
+		ADDED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml:108:17-52
 uses-sdk
 INJECTED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Vic\IntelliJIDEAProjects\AppMovil\app\src\main\AndroidManifest.xml

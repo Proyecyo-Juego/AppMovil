@@ -92,22 +92,20 @@
             android:backgroundTint="#a2b516"
             android:onClick="launchPlayGameActivity"
             android:text="@string/lanzar_juego" />
+        <Button
+                android:id="@+id/boton_ranking"
+                android:layout_width="140dp"
+                android:layout_height="5dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:backgroundTint="#a2b516"
+                android:onClick="launchRankingActivity"
+                android:text="@string/lanzar_ranking"
+                tools:layout_editor_absoluteY="617dp"
+                tools:layout_editor_absoluteX="16dp"/>
 
     </LinearLayout>
 
-    <!--boton de ranking-->
-
-    <Button
-            android:id="@+id/boton_ranking"
-            android:layout_width="122dp"
-            android:layout_height="98dp"
-            android:layout_gravity="center"
-            android:layout_weight="1"
-            android:backgroundTint="#a2b516"
-            android:onClick="launchRankingActivity"
-            android:text="@string/lanzar_ranking"
-            tools:layout_editor_absoluteY="617dp"
-            tools:layout_editor_absoluteX="16dp"/>
 
     <Button
         android:id="@+id/exit"

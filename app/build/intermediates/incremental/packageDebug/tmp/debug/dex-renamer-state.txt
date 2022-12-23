@@ -1,4 +1,4 @@
-#Sun Dec 11 15:51:43 CET 2022
+#Tue Dec 13 14:42:48 CET 2022
 base.0=C\:\\Users\\Vic\\IntelliJIDEAProjects\\AppMovil\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\Vic\\IntelliJIDEAProjects\\AppMovil\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\Vic\\IntelliJIDEAProjects\\AppMovil\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
