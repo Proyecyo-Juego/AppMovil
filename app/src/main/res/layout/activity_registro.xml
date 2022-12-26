@@ -69,10 +69,24 @@
             android:hint="@string/password_text"
             android:inputType="textPassword"
             android:textColor="@color/black"
-            android:textSize="10pt"
+             android:textSize="10pt"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent" />
+
+        <EditText
+            android:id="@+id/repassword_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/repassword_text"
+            android:layout_margin="10dp"
+            android:ems="10"
+            android:inputType="textPassword"
+            android:textColor="@color/black"
+            android:textSize="10pt"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"/>
 
         <Button
             android:id="@+id/registrarse_bt"
@@ -89,6 +103,21 @@
             android:textStyle="bold"
             app:iconPadding="4sp"
             app:iconTint="@color/black" />
+
+        <Button
+            android:id="@+id/existeusuario"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Existe usuario ir al login"
+            android:layout_margin="10dp"
+            android:backgroundTint="#FFEB3B"
+            android:insetTop="10sp"
+            android:insetBottom="4sp"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:iconPadding="4sp"
+            app:iconTint="@color/black"/>
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
