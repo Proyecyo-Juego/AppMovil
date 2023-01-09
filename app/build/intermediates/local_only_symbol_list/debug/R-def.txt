@@ -9,6 +9,7 @@ color teal_700
 color white
 drawable back
 drawable cyberpunk_edgerunners_logo
+drawable davidpersonaje
 drawable edgerunners_netflix_1_1
 drawable fondomenu
 drawable fondopersonajes
@@ -16,8 +17,11 @@ drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable icono_droide
 drawable iniciar_sesi_n
+drawable lucypersonaje
+drawable mainepersonaje
 drawable menu_de_inicio
 drawable personaje
+drawable rebeccapersonaje
 id ImageView
 id MenuPrueba
 id RankingNumber
@@ -35,6 +39,7 @@ id button4
 id elejir_pelea_item
 id email_text
 id enter_bt
+id existeusuario
 id exit
 id frameLayout
 id imageView
@@ -58,9 +63,9 @@ id nombreJugador
 id nombrePelea
 id password_text
 id passwordregistrada_text
-id peleaListView
 id puntosJugador
 id registrarse_bt
+id repassword_text
 id textView
 id textView20
 id textViewAtaque
@@ -95,7 +100,9 @@ string main_menu
 string main_personajes
 string password_text
 string passwordregistrado
+string repassword_text
 string texto
+string texto2
 string title_activity_maps
 string usuario_text
 string usuarioregistrado

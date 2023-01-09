@@ -19,10 +19,10 @@ public class ElegirPeleaActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_elegir_pelea);
-        lvPeleas = (ListView) findViewById(R.id.peleaListView);
+        //lvPeleas = (ListView) findViewById(R.id.peleaListView);
         cargarPeleas();
         ElejirPeleaAdapter adapter = new ElejirPeleaAdapter(this, R.layout.opcion_pelea, peleas);
-        lvPeleas.setAdapter(adapter);
+        //lvPeleas.setAdapter(adapter);
     }
 
     private void cargarPeleas(){

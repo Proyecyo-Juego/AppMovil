@@ -2615,6 +2615,7 @@ drawable common_google_signin_btn_text_light_focused
 drawable common_google_signin_btn_text_light_normal
 drawable common_google_signin_btn_text_light_normal_background
 drawable cyberpunk_edgerunners_logo
+drawable davidpersonaje
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
@@ -2638,6 +2639,7 @@ drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable icono_droide
 drawable iniciar_sesi_n
+drawable lucypersonaje
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay
 drawable m3_radiobutton_ripple
@@ -2646,6 +2648,7 @@ drawable m3_tabs_background
 drawable m3_tabs_line_indicator
 drawable m3_tabs_rounded_line_indicator
 drawable m3_tabs_transparent_background
+drawable mainepersonaje
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
@@ -2708,6 +2711,7 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable personaje
+drawable rebeccapersonaje
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -2910,6 +2914,7 @@ id endToStart
 id enterAlways
 id enterAlwaysCollapsed
 id enter_bt
+id existeusuario
 id exit
 id exitUntilCollapsed
 id expand_activities_button
@@ -3090,7 +3095,6 @@ id passwordregistrada_text
 id path
 id pathRelative
 id peekHeight
-id peleaListView
 id percent
 id pin
 id position
@@ -3103,6 +3107,7 @@ id radio
 id ratio
 id rectangles
 id registrarse_bt
+id repassword_text
 id reverseSawtooth
 id right
 id rightToLeft
@@ -3642,12 +3647,14 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string repassword_text
 string search_menu_title
 string selected
 string status_bar_notification_info_overflow
 string tab
 string template_percent
 string texto
+string texto2
 string title_activity_maps
 string usuario_text
 string usuarioregistrado
